@@ -2,8 +2,8 @@
 FaceBook clone with light and dark Mode
 
 ### Light Mode
-[!PhaseBookClone](Screenshot31.png)
+![PhaseBookClone](Screenshot31.png)
 
 
 ### Dark Mode
-[!PhaseBookClone](Screenshot2.png)
+![PhaseBookClone](Screenshot2.png)
